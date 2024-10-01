@@ -1,5 +1,17 @@
-body{background-color: #00DBDE;
+body {
+    background-color: #00DBDE;
     background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
-    
 
+
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
 }
